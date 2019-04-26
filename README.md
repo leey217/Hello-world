@@ -1,2 +1,2 @@
 # Hello-world
-jist nanthor reponsitory
+just nanthor reponsitory
